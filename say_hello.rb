@@ -5,4 +5,4 @@ phrase = "Hello "
 puts phrase
 end
 
-say 
+say_hello
